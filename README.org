@@ -1,0 +1,5 @@
+* Binance prices dashboard for OSX
+
+An OSX menubar app to display Binance prices.
+
+[[example_output.png]]
